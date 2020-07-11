@@ -10,13 +10,14 @@ body {
     text-transform: uppercase;
     color: $color-white;
     backface-visibility: hidden;
+    margin-bottom: 4rem;
 
     &--main {
         display: block;
         font-weight: 300;
         font-size: 6rem;
         letter-spacing: 3.5rem;
-        animation: moveInLeft 1s ease-out;
+        animation: moveInLeft 1.5s ease-out;
         text-align: center;
     }
 
@@ -26,7 +27,7 @@ body {
         font-weight: 300;
         letter-spacing: 1.8rem;
         text-align: center;
-        animation: moveInRight 1s ease-out;
+        animation: moveInRight 1.5s ease-out;
     }
 }
 
