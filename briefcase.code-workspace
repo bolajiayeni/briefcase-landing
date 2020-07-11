@@ -8,5 +8,8 @@
 			"name": "briefcase-landing",
 			"path": "."
 		}
-	]
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "briefcase-landing"
+	}
 }
